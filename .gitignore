@@ -1,2 +1,4 @@
 frontEnd/docs
 frontEnd/node_modules
+backEnd/__pycache__
+backEnd/sparqlEnv
