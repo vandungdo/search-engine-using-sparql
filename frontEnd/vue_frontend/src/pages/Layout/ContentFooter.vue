@@ -25,7 +25,7 @@
         &copy; {{ new Date().getFullYear() }}
         <a href="https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/President/Department-S/Section-S3/section-s3.html" target="_blank"
           >S.3 BAM eScience</a
-        >, made with <i class="fa fa-heart heart"></i> for a better science
+        >, for a better science
       </div>
     </div>
   </footer>

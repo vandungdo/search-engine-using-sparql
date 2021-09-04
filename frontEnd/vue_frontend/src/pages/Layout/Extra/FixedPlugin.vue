@@ -29,7 +29,7 @@
           </a>
         </li>
 
-        <li class="button-container">
+        <!-- <li class="button-container">
           <div class="">
             <md-button
               class="md-success md-block"
@@ -38,9 +38,9 @@
               >Free Download</md-button
             >
           </div>
-        </li>
+        </li> -->
 
-        <li class="button-container">
+        <!-- <li class="button-container">
           <div class="">
             <md-button
               class="md-block md-primary"
@@ -49,13 +49,13 @@
               >Documentation</md-button
             >
           </div>
-        </li>
-
+        </li> -->
+<!-- 
         <li class="header-title d-flex justify-content-center">
           Thank you for sharing!
-        </li>
+        </li> -->
 
-        <li class="button-container">
+        <!-- <li class="button-container">
           <social-sharing
             :url="shareUrl"
             inline-template
@@ -78,13 +78,8 @@
               </network>
             </div>
           </social-sharing>
-        </li>
-        <li class="github-buttons">
-          <gh-btns-star
-            slug="creativetimofficial/vue-material-dashboard"
-            show-count
-          ></gh-btns-star>
-        </li>
+        </li> -->
+        
       </ul>
     </div>
   </div>
@@ -114,10 +109,10 @@ export default {
         { color: "red", active: false }
       ],
       sidebarImages: [
-        { image: require("@/assets/img/sidebar-1.jpg"), active: false },
-        { image: require("@/assets/img/sidebar-2.jpg"), active: true },
-        { image: require("@/assets/img/sidebar-3.jpg"), active: false },
-        { image: require("@/assets/img/sidebar-4.jpg"), active: false }
+        { image: require("@/assets/img/universe1.jpg"), active: false },
+        { image: require("@/assets/img/semantischer-knowledge-graph.png"), active: true },
+        { image: require("@/assets/img/what-is-a-knowledge-graph.jpg"), active: false },
+        { image: require("@/assets/img/universe.jpeg"), active: false }
       ]
     };
   },
