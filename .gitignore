@@ -1,4 +1,4 @@
-frontEnd/docs
-frontEnd/node_modules
+frontEnd/vue_frontend/docs
+frontEnd/vue_frontend/node_modules
 backEnd/__pycache__
 backEnd/sparqlEnv
